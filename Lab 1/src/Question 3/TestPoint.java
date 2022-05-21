@@ -19,5 +19,4 @@ public class TestPoint {
         System.out.printf("The distance between point A and B is %.5f",p1.distance(p2));
         s.close();
     }
-
 }
