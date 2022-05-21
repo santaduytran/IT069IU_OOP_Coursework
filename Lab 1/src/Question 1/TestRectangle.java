@@ -15,5 +15,4 @@ public class TestRectangle {
         r3.visualize();
 
     }
-
 }
